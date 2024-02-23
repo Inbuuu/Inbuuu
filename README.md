@@ -14,7 +14,7 @@ Driven by challenging problems, I seek to improve my knowledge through CTFs such
 ### 📫 EMAIL
 <div style="display: inline_block"><br/>
     <img align="center" alt="EMAIL" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-<br/>
+<br/> felipegonoli@proton.me
 
 #
 
