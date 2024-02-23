@@ -19,7 +19,6 @@ Driven by challenging problems, I seek to improve my knowledge through CTFs such
 #
 
 ![Inbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inbuuu&show_icons=true&theme=synthwave)
-
 ![Inbu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Inbuuu&theme=blue-green)
 
 #
